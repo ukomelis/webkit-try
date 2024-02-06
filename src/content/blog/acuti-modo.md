@@ -1,11 +1,11 @@
 ---
-title: Acuti modo
-description: Lorem markdownum tardantis unam mitissima dissimulator inposuit   corpus sintque tura tremenda, nec coetum.
-author: Code Stitch
-date: 2023-06-08T15:26:46.705Z
+title: Wag wan
+description: Sup homie
+author: Bro Brofessor
+date: 2024-02-06T14:23:31.977Z
 tags:
-    - post
-image: /assets/images/blog/landing.jpg
+  - post
+image: /assets/images/blog/241178937_447198703119990_7273482195548057070_n.jpg
 imageAlt: Kitchen
 ---
 
