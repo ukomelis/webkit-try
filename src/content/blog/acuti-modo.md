@@ -5,6 +5,7 @@ author: Bro Brofessor
 date: 2024-02-06T14:23:31.977Z
 tags:
   - post
+  - featured
 image: /assets/images/blog/241178937_447198703119990_7273482195548057070_n.jpg
 imageAlt: Kitchen
 ---
